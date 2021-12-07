@@ -3,8 +3,8 @@
  
  
  
-   # About Codes
---Boostrap 4 library has a responsive structure targeting mobile devices (mobile-first).
---I used version 4.1.3 of bootstrap library
---In order to use Bootstrap css classes, we need to add the cdn address of the boostrap.min.css file to the <head> section of our html page.
---In order to use Bootstrap Javascript components, we need to add the following javascript libraries just above the closing </body> tag.
+   ### About Codes
+- Boostrap 4 library has a responsive structure targeting mobile devices (mobile-first).
+- I used version 4.1.3 of bootstrap library
+- In order to use Bootstrap css classes, we need to add the cdn address of the boostrap.min.css file to the <head> section of our html page.
+- In order to use Bootstrap Javascript components, we need to add the following javascript libraries just above the closing </body> tag.
